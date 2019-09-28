@@ -1,0 +1,549 @@
+{afd55ac6-d0b0-4812-9047-6c756d82bedf}#3763#ServerStandard#Windows Server 2016 RTM ServerStandard Retail#Retail
+{21c56779-b449-4d20-adfc-eece0e1ad74b}#3764#ServerDatacenter#Windows Server 2016 RTM ServerDatacenter Volume:GVLK#Volume:GVLK
+{fea51083-1906-44ed-9072-86af9be7ab9a}#3765#ServerDatacenter#Windows Server 2016 RTM ServerDatacenter Volume:MAK#Volume:MAK
+{562634bb-b8d8-43eb-8325-bf63a42c4174}#3766#ServerDatacenter#Windows Server 2016 RTM ServerDatacenter VT:IA#VT:IA#
+{a43f7b89-8023-413a-9f58-b8aec2c04d00}#3767#ServerDatacenter#Windows Server 2016 RTM ServerDatacenter OEM:NONSLP#OEM:NONSLP#
+{942efa8f-516f-46d8-8541-b1ee1bce08c6}#3768#ServerDatacenter#Windows Server 2016 RTM ServerDatacenter OEM:NONSLP (MUI locked to zh-CN)#OEM:NONSLP
+{cbf3499f-848e-488b-a165-ac6d7e27439d}#3769#ServerDatacenter#Windows Server 2016 RTM ServerDatacenter OEM:SLP#OEM:SLP
+{58448dfb-6ac0-4e06-b491-07f2b657b268}#3770#ServerDatacenter#Windows Server 2016 RTM ServerDatacenter OEM:SLP (MUI locked to zh-CN)#OEM:SLP
+{01398239-85ff-487f-9e90-0e3cc5bcc92e}#3771#ServerDatacenterEval#Windows Server 2016 RTM ServerDatacenterEval Retail:TB:Eval#Retail:TB:Eval
+{a2ae7054-d580-4c06-a79b-1662e6f6955c}#3772#ServerStandard#Windows Server 2016 RTM ServerStandard OEM:NONSLP#OEM:NONSLP
+{60d99e35-ba21-46e5-abf9-877d5dd815de}#3773#ServerStandard#Windows Server 2016 RTM ServerStandard OEM:NONSLP (MUI locked to zh-CN)#OEM:NONSLP
+{f70cf82b-0a95-4f14-a0a9-cb968d337962}#3774#ServerStandard#Windows Server 2016 RTM ServerStandard OEM:SLP#OEM:SLP
+{f3d100a3-7544-4580-be0b-88d452b4a881}#3775#ServerStandard#Windows Server 2016 RTM ServerStandard OEM:SLP (MUI locked to zh-CN)#OEM:SLP
+{8c1c5410-9f39-4805-8c9d-63a07706358f}#3776#ServerStandard#Windows Server 2016 RTM ServerStandard Volume:GVLK#Volume:GVLK
+{c0b765fd-6e2e-42f9-80d7-4a7ca0d118cf}#3777#ServerStandard#Windows Server 2016 RTM ServerStandard Volume:MAK#Volume:MAK
+{179bbfdb-3b18-4fa6-af8f-86f740f28fef}#3778#ServerStandard#Windows Server 2016 RTM ServerStandard VT:IA#VT:IA
+{d839f159-1128-480b-94b6-77fa9943a16a}#3779#ServerDatacenter#Windows Server 2016 RTM ServerDatacenter Retail#Retail
+{9dfa8ec0-7665-4b9d-b2cb-bfc2dc37c9f4}#3780#ServerStandardEval#Windows Server 2016 RTM ServerStandardEval Retail:TB:Eval#Retail:TB:Eval
+{9297796b-3972-4347-906e-78905da547e2}#3788#ServerAzureNano#Windows Server 2016 RTM ServerAzureNano Retail#Retail
+{b3404d38-04ef-4811-b233-570e528096d1}#3789#ServerAzureCor#Windows Server 2016 RTM ServerAzureCor Retail#Retail
+{3dbf341b-5f6c-4fa7-b936-699dce9e263f}#3839#ServerAzureCor#Windows Server 2016 RTM ServerAzureCor Volume:GVLK#Volume:GVLK
+{c9b7954b-4a2f-427a-af9a-4a25dc869452}#3840#ServerAzureCor#Windows Server 2016 RTM ServerAzureCor VT:IA#VT:IA
+{9d0790a8-71df-4851-8f23-9bcd0ccab465}#3841#ServerDatacenterCor#Windows Server 2016 RTM ServerDatacenterCor Retail#Retail
+{15721ddf-5d40-4108-bbb2-ca005a47a3ba}#3842#ServerDatacenterEvalCor#Windows Server 2016 RTM ServerDatacenterEvalCor Retail:TB:Eval#Retail:TB:Eval
+{16697af0-f804-42f5-a271-10806ffa3f34}#3843#ServerStandardCor#Windows Server 2016 RTM ServerStandardCor Retail#Retail
+{a2d15679-7192-43a9-b4dd-37c32061c07b}#3844#ServerStandardEvalCor#Windows Server 2016 RTM ServerStandardEvalCor Retail:TB:Eval#Retail:TB:Eval
+{0cd7a57e-c051-4f21-8496-7205beebdcc2}#3754#ServerSolution#Windows Server Essentials 2016 RTM ServerSolution OEM:NONSLP#OEM:NONSLP
+{dcf779a7-90ef-4138-a9d2-df5aecfb0fb2}#3755#ServerSolution#Windows Server Essentials 2016 RTM ServerSolution OEM:NONSLP (MUI locked to zh-CN)#OEM:NONSLP
+{3f05fe09-7744-473b-8813-8481f4656e7b}#3756#ServerSolution#Windows Server Essentials 2016 RTM ServerSolution OEM:SLP#OEM:SLP
+{3ab9cd8b-ed58-4b51-846a-f013d7748591}#3757#ServerSolution#Windows Server Essentials 2016 RTM ServerSolution OEM:SLP (MUI locked to zh-CN)#OEM:SLP
+{2804c327-d727-4813-b230-18c73e11f7cc}#3758#ServerSolution#Windows Server Essentials 2016 RTM ServerSolution Retail#Retail
+{64129a84-6d47-48e0-ad16-20232e617f07}#3759#ServerSolution#Windows Server Essentials 2016 RTM ServerSolution Retail:TB:Eval#Retail:TB:Eval
+{2b5a1b0f-a5ab-4c54-ac2f-a6d94824a283}#3760#ServerSolution#Windows Server Essentials 2016 RTM ServerSolution Volume:GVLK#Volume:GVLK
+{23d0905e-567b-4bde-992d-a1abf86a77d5}#3761#ServerSolution#Windows Server Essentials 2016 RTM ServerSolution Volume:MAK#Volume:MAK
+{e59d8f3c-05ee-4c5e-9c0f-80200ed0bb54}#3762#ServerSolution#Windows Server Essentials 2016 RTM ServerSolution VT:IA#VT:IA
+{64e9f058-1cea-4c7b-8f81-6583d6af71dc}#3748#ServerStorageStandard#Storage Server 2016 RTM ServerStorageStandard OEM:SLP#OEM:SLP
+{47ab5c9d-fd76-470d-8b59-c6cd09ae0324}#3749#ServerStorageStandard#Storage Server 2016 RTM ServerStorageStandard OEM:NONSLP#OEM:NONSLP
+{32546532-818a-4b0e-91d2-41aa58b25e40}#3750#ServerStorageStandard#Storage Server 2016 RTM ServerStorageStandard Retail#Retail
+{3b324c32-ca8f-432b-bc1f-36258140c556}#3751#ServerStorageWorkgroup#Storage Server 2016 RTM ServerStorageWorkgroup OEM:SLP#OEM:SLP
+{886ed35a-3eac-4503-9d31-bcac0ad881be}#3752#ServerStorageWorkgroup#Storage Server 2016 RTM ServerStorageWorkgroup OEM:NONSLP#OEM:NONSLP
+{dc74cbcb-75e0-4bc9-a706-b4281839e1fe}#3753#ServerStorageWorkgroup#Storage Server 2016 RTM ServerStorageWorkgroup Retail#Retail
+{bf85655c-0b5b-4c9e-b9cf-5a64e0c053b0}#3744#ServerCloudStorage#ServerCloudStorage 2016 RTM ServerCloudStorage OEM:NONSLP#OEM:NONSLP
+{36147ad0-32d4-49da-93cd-99cc9c03522b}#3745#ServerCloudStorage#ServerCloudStorage 2016 RTM ServerCloudStorage OEM:SLP#OEM:SLP
+{13649426-c2a8-4211-9b5c-b5c012a37a80}#3746#ServerCloudStorage#ServerCloudStorage 2016 RTM ServerCloudStorage Retail#Retail
+{7b4433f4-b1e7-4788-895a-c45378d38253}#3747#ServerCloudStorage#ServerCloudStorage 2016 RTM ServerCloudStorage Volume:GVLK#Volume:GVLK
+{0567073a-7d74-403b-b2d5-6b35da372d8d}#3258#Core#Win 10 RTM Core OEM:DM#OEM:DM
+{8db63db6-4f8f-46d6-a448-66444faaaa72}#3259#Core#Win 10 RTM Core OEM:DM#OEM:DM
+{30d469c6-a78f-4476-b5c8-af78d5b6a5fb}#3260#Core#Win 10 RTM Core OEM:NONSLP#OEM:NONSLP
+{2b1f36bb-c1cd-4306-bf5c-a0367c2d97d8}#3261#Core#Win 10 RTM Core Retail#Retail
+{e371d89a-73e8-4b24-a7ff-23a3641dd18e}#3262#Core#Win 10 RTM Core Retail#Retail
+{58e97c99-f377-4ef1-81d5-4ad5522b5fd8}#3263#Core#Win 10 RTM Core Volume:GVLK#Volume:GVLK
+{b27bf099-cf06-499e-af17-de73ba94b316}#3264#CoreCountrySpecific#Win 10 RTM CoreCountrySpecific OEM:DM#OEM:DM
+{f4fcb21e-34ca-4383-865a-ab4d36363e03}#3265#CoreCountrySpecific#Win 10 RTM CoreCountrySpecific OEM:NONSLP#OEM:NONSLP
+{1d1bac85-7365-4fea-949a-96978ec91ae0}#3266#CoreCountrySpecific#Win 10 RTM CoreCountrySpecific Retail#Retail
+{a9107544-f4a0-4053-a96a-1479abdef912}#3267#CoreCountrySpecific#Win 10 RTM CoreCountrySpecific Volume:GVLK#Volume:GVLK
+{8e518ff0-bab0-4ea1-a233-61338721bf0b}#3268#CoreN#Win 10 RTM CoreN OEM:DM#OEM:DM
+{2479ad7a-fe16-43f2-aec8-b30a210fe303}#3269#CoreN#Win 10 RTM CoreN OEM:NONSLP#OEM:NONSLP
+{f742e4ff-909d-4fe9-aacb-3231d24a0c58}#3270#CoreN#Win 10 RTM CoreN Retail#Retail
+{06e74065-465d-4e14-ab23-c34a28aa54aa}#3271#CoreN#Win 10 RTM CoreN Retail#Retail
+{7b9e1751-a8da-4f75-9560-5fadfe3d8e38}#3272#CoreN#Win 10 RTM CoreN Volume:GVLK#Volume:GVLK
+{ed799377-74b8-4989-a244-14d082e65972}#3273#CoreSingleLanguage#Win 10 RTM CoreSingleLanguage OEM:DM#OEM:DM
+{653098ee-780d-4863-8cf2-d18399ce413b}#3274#CoreSingleLanguage#Win 10 RTM CoreSingleLanguage OEM:DM#OEM:DM
+{4002e33a-524c-4100-8108-131a0d42c0ea}#3275#CoreSingleLanguage#Win 10 RTM CoreSingleLanguage OEM:NONSLP#OEM:NONSLP
+{3ae2cc14-ab2d-41f4-972f-5e20142771dc}#3276#CoreSingleLanguage#Win 10 RTM CoreSingleLanguage Retail#Retail
+{cd918a57-a41b-4c82-8dce-1a538e221a83}#3277#CoreSingleLanguage#Win 10 RTM CoreSingleLanguage Volume:GVLK#Volume:GVLK
+{1a9a717a-cf13-4ba5-83c3-0fe25fa868d5}#3278#Education#Win 10 RTM Education OEM:DM#OEM:DM
+{2936d1d2-913a-4542-b54e-ce5a602a2a38}#3279#Education#Win 10 RTM Education OEM:NONSLP#OEM:NONSLP
+{e558417a-5123-4f6f-91e7-385c1c7ca9d4}#3280#Education#Win 10 RTM Education Retail#Retail
+{e0c42288-980c-4788-a014-c080d2e1926e}#3281#Education#Win 10 RTM Education Volume:GVLK#Volume:GVLK
+{b4bfe195-541e-4e64-ad23-6177f19e395e}#3282#Education#Win 10 RTM Education Volume:MAK#Volume:MAK
+{c5198a66-e435-4432-89cf-ec777c9d0352}#3285#EducationN#Win 10 RTM EducationN Retail#Retail
+{dcca5ad8-d7aa-432b-8bf3-1829dfe7d0f2}#3283#EducationN#Win 10 RTM EducationN OEM:DM#OEM:DM
+{c6c0a31e-7003-4dff-b4f9-ddc9f8d20af9}#3284#EducationN#Win 10 RTM EducationN OEM:NONSLP#OEM:NONSLP
+{4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c}#3308#Professional#Win 10 RTM Professional Retail#Retail
+{3c102355-d027-42c6-ad23-2e7ef8a02585}#3286#EducationN#Win 10 RTM EducationN Volume:GVLK#Volume:GVLK
+{6ef518fa-b31e-4c71-851a-d10f61eccd54}#3287#EducationN#Win 10 RTM EducationN Volume:MAK#Volume:MAK
+{9fbaf5d6-4d83-4422-870d-fdda6e5858aa}#3316#ProfessionalN#Win 10 RTM ProfessionalN Retail#Retail
+{7cb546c0-c7d5-44d8-9a5c-69ecdd782b69}#3288#Enterprise#Win 10 RTM Enterprise OEM:DM#OEM:DM
+{8b351c9c-f398-4515-9900-09df49427262}#3289#Enterprise#Win 10 RTM Enterprise OEM:NONSLP#OEM:NONSLP
+{73111121-5638-40f6-bc11-f1d7b0d64300}#3290#Enterprise#Win 10 RTM Enterprise Volume:GVLK#Volume:GVLK
+{2ffd8952-423e-4903-b993-72a1aa44cf82}#3291#Enterprise#Win 10 RTM Enterprise Volume:MAK#Volume:MAK
+{3f4c0546-36c6-46a8-a37f-be13cdd0cf25}#3292#EnterpriseEval#Win 10 RTM EnterpriseEval Retail:TB:Eval#Retail:TB:Eval
+{d6323d79-620e-4b82-bd5f-765e820d69e6}#3293#EnterpriseS	Win#10 RTM EnterpriseS OEM:DM#OEM:DM
+{e272e3e2-732f-4c65-a8f0-484747d0d947}#3299#EnterpriseN#Win 10 RTM EnterpriseN Volume:GVLK#Volume:GVLK
+{c83cef07-6b72-4bbc-a28f-a00386872839}#3300#EnterpriseN#Win 10 RTM EnterpriseN Volume:MAK#Volume:MAK
+{1f8dbfe8-defa-4676-b5a6-f76949a01540}#3301#EnterpriseNEval#Win 10 RTM EnterpriseNEval Retail:TB:Eval#Retail:TB:Eval
+{2a6137f3-75c0-4f26-8e3e-d83d802865a4}#3304#PPIPro#Win 10 RTM PPIPro OEM:NONSLP#OEM:NONSLP
+{bd3762d7-270d-4760-8fb3-d829ca45278a}#3305#Professional#Win 10 RTM Professional OEM:DM#OEM:DM
+{613d217f-7f13-4268-9907-1662339531cd}#3306#Professional#Win 10 RTM Professional OEM:DM#OEM:DM
+{2c293c26-a45a-4a2a-a350-c69a67097529}#3425#Professional#Win 10 RTM Professional OEM:DM#OEM:DM
+{221a02da-e2a1-4b75-864c-0a4410a33fdf}#3307#Professional#Win 10 RTM Professional OEM:NONSLP#OEM:NONSLP
+{377333b1-8b5d-48d6-9679-1225c872d37c}#3309#Professional#Win 10 RTM Professional Retail#Retail
+{b0773a15-df3a-4312-9ad2-83d69648e356}#3310#Professional#Win 10 RTM Professional Retail#Retail
+{2de67392-b7a7-462a-b1ca-108dd189f588}#3311#Professional#Win 10 RTM Professional Volume:GVLK#Volume:GVLK
+{49cd895b-53b2-4dc4-a5f7-b18aa019ad37}#3312#Professional#Win 10 RTM Professional Volume:MAK#Volume:MAK
+{ef51e000-2659-4f25-8345-3de70a9cf4c4}#3313#Professional#Win 10 RTM Professional Volume:MAK#Volume:MAK
+{b6f26b97-8a82-4781-beef-1123952988f2}#3314#ProfessionalN#Win 10 RTM ProfessionalN OEM:DM#OEM:DM
+{1419d934-3a3f-46d4-8a5e-8594a56b9e6f}#3315#ProfessionalN#Win 10 RTM ProfessionalN OEM:NONSLP#OEM:NONSLP
+{9c4a7917-c857-4bd5-b109-d21866014b5c}#3317#ProfessionalN#Win 10 RTM ProfessionalN Retail#Retail
+{8a9e86e9-057b-40ca-b11b-307d8f167ae8}#3318#ProfessionalN#Win 10 RTM ProfessionalN Retail#Retail
+{a80b5abf-76ad-428b-b05d-a47d2dffeebf}#3319#ProfessionalN#Win 10 RTM ProfessionalN Volume:GVLK#Volume:GVLK
+{2ea9cf38-0d06-4ed0-a4be-66fc7c919a42}#3320#ProfessionalN#Win 10 RTM ProfessionalN Volume:MAK#Volume:MAK
+{5694ba59-213b-468a-b2c9-82a4dd09877d}#3321#ProfessionalN#Win 10 RTM ProfessionalN Volume:MAK#Volume:MAK
+{1d873132-f09f-4eb2-bf5a-2e4fb48935e8}#3422#Core#Win 10 RTM Core OEM:DM#OEM:DM
+{847bb612-a888-441f-a947-a684ddd9099f}#3423#CoreCountrySpecific#Win 10 RTM CoreCountrySpecific OEM:DM#OEM:DM
+{8a292df8-d653-4057-8133-a0701792f912}#3424#CoreSingleLanguage#Win 10 RTM CoreSingleLanguage OEM:DM#OEM:DM
+{411b3d4f-be6d-4a06-baaa-9cabfc256cae}#3504#Core#Win 10 RTM Core Retail#Retail
+{74436dbb-cc17-46de-867f-14906ba4a938}#3505#Core#Win 10 RTM Core Retail#Retail
+{c86d5194-4840-4dae-9c1c-0301003a5ab0}#3506#Professional#Win 10 RTM Professional Retail#Retail
+{d6eadb3b-5ca8-4a6b-986e-35b550756111}#3507#Professional#Win 10 RTM Professional Retail#Retail
+{fe74f55b-0338-41d6-b267-4a201abe7285}#3556#Professional#Win 10 RTM Professional OEM:DM#OEM:DM
+{040fa323-92b1-4baf-97a2-5b67feaefddb}#3557#Professional#Win 10 RTM Professional OEM:DM#OEM:DM
+{4053f6e4-20bb-49f2-b808-8385c48b5cd5}#3558#ProfessionalN#Win 10 RTM ProfessionalN OEM:DM#OEM:DM
+{6ccd24e5-8cc4-49ae-8996-dcfdcb4e1dc2}#3559#ProfessionalN#Win 10 RTM ProfessionalN OEM:DM#OEM:DM
+{1b750385-9fe2-49a8-ab55-149d0546395b}#3560#Core#Win 10 RTM Core OEM:DM#OEM:DM
+{d7fb0c28-1eea-4f68-98a1-f988aa838ab5}#3561#CoreCountrySpecific#Win 10 RTM CoreCountrySpecific OEM:DM#OEM:DM
+{da9621af-f086-4244-b563-18611e51aa1a}#3562#CoreSingleLanguage#Win 10 RTM CoreSingleLanguage OEM:DM#OEM:DM
+{3df374ef-d444-4494-a5a1-4b0d9fd0e203}#3563#Professional#Win 10 RTM Professional OEM:DM#OEM:DM
+{8859e3f7-43b0-4a38-87cb-ca00202651c6}#3678#AnalogOneCore#Win 10 RTM AnalogOneCore Retail#Retail
+{ee7b1257-5c57-42b4-9fe8-4915deb2f679}#3679#AnalogOneCoreEnterprise#Win 10 RTM AnalogOneCoreEnterprise Volume:MAK#Volume:MAK
+{3c0e0ac0-ae70-462e-9c38-5d48e1cd220f}#3720#IoTUAP#Win 10 RTM IoTUAP Retail#Retail
+{86a309b8-45f0-4c6c-a637-da4f8fa9a5d7}#3721#IoTUAPCommercial#Win 10 RTM IoTUAPCommercial Volume:MAK#Volume:MAK
+{1e394594-83b1-40d6-ba96-83fee644ded5}#3790#EnterpriseSubscription#Win 10 RTM EnterpriseSubscription Volume:MAK#Volume:MAK
+{441ca6b5-25ff-43d2-9bd2-106dd21ddaa1}#3791#EnterpriseSubscriptionN#Win 10 RTM EnterpriseSubscriptionN Volume:MAK#Volume:MAK
+{2782d615-3249-495b-8260-15a4c2295448}#3802#EnterpriseS#Win 10 RTM EnterpriseS Volume:MAK#Volume:MAK
+{3d1022d8-969f-4222-b54b-327f5a5af4c9}#3803#EnterpriseSN#Win 10 RTM EnterpriseSN Volume:MAK#Volume:MAK
+{b47dd250-fd6a-44c8-9217-03aca6e4812e}#3804#EnterpriseSEval#Win 10 RTM EnterpriseSEval Retail:TB:Eval#Retail:TB:Eval
+{6162e8c2-3c30-46e1-b964-0de603498e2d}#3805#EnterpriseSNEval#Win 10 RTM EnterpriseSNEval Retail:TB:Eval#Retail:TB:Eval
+{f9ee36aa-c068-43f9-8a22-8fb71d07566a}#3806#EnterpriseS#Win 10 RTM EnterpriseS OEM:DM#OEM:DM
+{706e0cfd-23f4-43bb-a9af-1a492b9f1302}#3807#EnterpriseS#Win 10 RTM EnterpriseS OEM:NONSLP#OEM:NONSLP
+{2d5a5a60-3040-48bf-beb0-fcd770c20ce0}#3782#EnterpriseS#Win 10 RTM EnterpriseS Volume:GVLK#Volume:GVLK
+{9f776d83-7156-45b2-8a5c-359b9c9f22a3}#3783#EnterpriseSN#Win 10 RTM EnterpriseSN Volume:GVLK#Volume:GVLK
+{62f0c100-9c53-4e02-b886-a3528ddfe7f6}#3800#ProfessionalEducation#Win 10 RTM ProfessionalEducation Retail#Retail
+{13a38698-4a49-4b9e-8e83-98fe51110953}#3801#ProfessionalEducationN#Win 10 RTM ProfessionalEducationN Retail#Retail
+{e7a950a2-e548-4f10-bf16-02ec848e0643}#3792#ProfessionalEducation#Win 10 RTM ProfessionalEducation OEM:DM#OEM:DM
+{4f3da0d2-271d-4508-ae81-626b60809a38}#3793#ProfessionalEducation#Win 10 RTM ProfessionalEducation OEM:NONSLP#OEM:NONSLP
+{d559863d-8e3d-4854-b5ea-8e43ffa8079b}#3794#ProfessionalEducationN#Win 10 RTM ProfessionalEducationN OEM:DM#OEM:DM
+{58a01bdf-695f-441b-b7c5-bba7b495b894}#3795#ProfessionalEducationN#Win 10 RTM ProfessionalEducationN OEM:NONSLP#OEM:NONSLP
+{3f1afc82-f8ac-4f6c-8005-1d233e606eee}#3784#ProfessionalEducation#Win 10 RTM ProfessionalEducation Volume:GVLK#Volume:GVLK
+{5300b18c-2e33-4dc2-8291-47ffcec746dd}#3785#ProfessionalEducationN#Win 10 RTM ProfessionalEducationN Volume:GVLK#Volume:GVLK
+{345a5db0-d94f-4e3b-a0c0-7c42f7bc3ebf}#3786#ProfessionalEducation#Win 10 RTM ProfessionalEducation Volume:MAK#Volume:MAK
+{550a7080-123a-4c1c-ad73-adebffe64cb0}#3787#ProfessionalEducationN#Win 10 RTM ProfessionalEducationN Volume:MAK#Volume:MAK
+{46fc26ea-6671-4d0f-955b-7d984f0bcdad}#3631#MobileCore#Win 10 Pre-Release MobileCore Retail#Retail
+{ba782239-2781-43bd-b6ce-9fbeb5cec154}#3632#MobileEnterprise#Win 10 Pre-Release MobileEnterprise Volume:MAK#Volume:MAK
+{772e3d13-2cbc-4256-9086-c92967dfa9a8}#3633#CoreARM#Win 10 Pre-Release CoreARM OEM:DM#OEM:DM
+{3a2da408-3bd6-4496-b4eb-31effe3efc60}#3634#CoreARM#Win 10 Pre-Release CoreARM OEM:NONSLP#OEM:NONSLP
+{b554b49f-4d57-4f08-955e-87886f514d49}#3635#CoreARM#Win 10 Pre-Release CoreARM Volume:GVLK#Volume:GVLK
+{cc17e18a-fa93-43d6-9179-72950a1e931a}#3672#ProfessionalWMC#Win 10 Pre-Release ProfessionalWMC Volume:GVLK#Volume:GVLK
+{9a49e8d9-88e4-4397-92e1-4a8d84674b33}#3673#ProfessionalWMC#Win 10 Pre-Release ProfessionalWMC Retail#Retail
+{3e0b1557-1849-4a5a-9596-fe05807567cd}#2789#CoreConnected#Win Next Pre-Release CoreConnected Retail#Retail
+{c436def1-0dcc-4849-9a59-8b6142eb70f3}#2790#CoreConnected#Win Next Pre-Release CoreConnected Volume:GVLK#Volume:GVLK
+{1f2b8659-66ab-43fa-b5bf-9294b22bcf76}#2794#CoreConnectedCountrySpecific#Win Next Pre-Release CoreConnectedCountrySpecific Retail#Retail
+{a8651bfb-7fe0-40df-b156-87337ecd5acc}#2795#CoreConnectedCountrySpecific#Win Next Pre-Release CoreConnectedCountrySpecific Volume:GVLK#Volume:GVLK
+{bbd73b43-e84b-4d92-9a8d-1faccfd1381a}#2799#CoreConnectedN#Win Next Pre-Release CoreConnectedN Retail#Retail
+{86f72c8d-8363-4188-b574-1a53cb374711}#2800#CoreConnectedN#Win Next Pre-Release CoreConnectedN Volume:GVLK#Volume:GVLK
+{08f92e9f-b42d-4767-88e8-472273d19063}#2804#CoreConnectedSingleLanguage#Win Next Pre-Release CoreConnectedSingleLanguage Retail#Retail
+{5b120df4-ea3f-4e82-b0c0-6568f719730e}#2805#CoreConnectedSingleLanguage#Win Next Pre-Release CoreConnectedSingleLanguage Volume:GVLK#Volume:GVLK
+{58464d21-6071-4cbe-a08b-6d3ab49ac944}#2809#ProfessionalStudent#Win Next Pre-Release ProfessionalStudent Retail#Retail
+{fd5ae385-f5cf-4b53-b1fa-1af6fff7c0d8}#2810#ProfessionalStudent#Win Next Pre-Release ProfessionalStudent Volume:GVLK#Volume:GVLK
+{fba80ee0-a92f-43fa-999e-cb594b744061}#2814#ProfessionalStudentN#Win Next Pre-Release ProfessionalStudentN Retail#Retail
+{687f6358-6a21-453a-a712-3b3b57123827}#2815#ProfessionalStudentN#Win Next Pre-Release ProfessionalStudentN Volume:GVLK#Volume:GVLK
+{aa234c15-ee34-4e5f-adb5-73afafb77143}#3481#ProfessionalS#Win Next Pre-Release ProfessionalS Volume:GVLK#Volume:GVLK
+{d0fe039e-737b-4cf4-b360-b83d7ca11b2d}#3482#ProfessionalS#Win Next Pre-Release ProfessionalS Volume:MAK#Volume:MAK
+{9f6a1bc9-5278-4991-88c9-7301c87a75ea}#3483#ProfessionalSN#Win Next Pre-Release ProfessionalSN Volume:GVLK#Volume:GVLK
+{43ce53cf-5981-4db8-a4f8-7c941b983b4a}#3484#ProfessionalSN#Win Next Pre-Release ProfessionalSN Volume:MAK#Volume:MAK
+{3502365a-f88a-4ba4-822a-5769d3073b65}#3915#ProfessionalWorkstation#Win 10 RTM ProfessionalWorkstation OEM:DM#OEM:DM
+{95dca82f-385d-4d39-b85b-5c73fa285d6f}#3916#ProfessionalWorkstation#Win 10 RTM ProfessionalWorkstation OEM:NONSLP#OEM:NONSLP
+{eb6d346f-1c60-4643-b960-40ec31596c45}#3917#ProfessionalWorkstation#Win 10 RTM ProfessionalWorkstation Retail#Retail
+{82bbc092-bc50-4e16-8e18-b74fc486aec3}#3918#ProfessionalWorkstation#Win 10 RTM ProfessionalWorkstation Volume:GVLK#Volume:GVLK
+{721f9237-9341-4453-a661-09e8baa6cca5}#3919#ProfessionalWorkstation#Win 10 RTM ProfessionalWorkstation Volume:MAK#Volume:MAK
+{608e9c8c-895c-47ad-a336-4abd5ae221a4}#3920#ProfessionalWorkstationN#Win 10 RTM ProfessionalWorkstationN OEM:DM#OEM:DM
+{9252fc78-051d-4eef-b4e1-ae263a885708}#3921#ProfessionalWorkstationN#Win 10 RTM ProfessionalWorkstationN OEM:NONSLP#OEM:NONSLP
+{89e87510-ba92-45f6-8329-3afa905e3e83}#3922#ProfessionalWorkstationN#Win 10 RTM ProfessionalWorkstationN Retail#Retail
+{4b1571d3-bafb-4b40-8087-a961be2caf65}#3923#ProfessionalWorkstationN#Win 10 RTM ProfessionalWorkstationN Volume:GVLK#Volume:GVLK
+{0e0a4643-943f-4a28-b82f-db752d0d7ec7}#3924#ProfessionalWorkstationN#Win 10 RTM ProfessionalWorkstationN Volume:MAK#Volume:MAK
+{6365275e-368d-46ca-a0ef-fc0404119333}#3798#ProfessionalWorkstation#Win 10 RTM ProfessionalWorkstation Retail#Retail
+{e9a93439-eac5-4d1b-9123-f29bd20cc8fc}#3799#ProfessionalWorkstationN#Win 10 RTM ProfessionalWorkstationN Retail#Retail
+{81f9b6d3-8aa5-43d3-abbb-8f8e226e2c63}#3495#MobileCore#Win Next Pre-Release MobileCore Retail#Retail
+{71153417-69a6-4767-84e3-dd75ad09b44c}#3496#MobileEnterprise#Win Next Pre-Release MobileEnterprise Volume:MAK#Volume:MAK
+{ee8464ba-bcf0-4af1-b1b1-b1850b91bfa9}#3510#ServerARM64#Windows Server Next Beta ServerARM64 Retail#Retail
+{35cc0c20-01a2-4ec5-8f0e-664e5025008f}#3728#CoreSystemServer#Windows Server 12 R2 RTM CoreSystemServer Retail#Retail
+{2bf74405-283d-46ff-a37e-6828c5a5c7c0}#3732#ServerDatacenterNano#Windows Server Next RTM ServerDatacenterNano Retail#Retail
+{6301fd75-0488-4b9e-b8c2-ae095b1c86bf}#3733#ServerStandardNano#Windows Server Next RTM ServerStandardNano Retail#Retail
+{b13d53d4-1a21-4d49-9eb1-20c7eafc77d4}#1790#CoreN#Win 8 RTM CoreN OEM:DM#OEM:DM
+{73416275-0240-425f-90d9-d92590083699}#1798#ProfessionalN#Win 8 RTM ProfessionalN OEM:DM#OEM:DM
+{0b4dbe61-245f-4b43-9ce0-bbe1db8f29ff}#1865#CoreARM#Win 8 RTM CoreARM OEM:DM#OEM:DM
+{ed36b7fc-be9b-4889-b89d-0243f716df2b}#1792#CoreCountrySpecific#Win 8 RTM CoreCountrySpecific OEM:DM#OEM:DM
+{b0f8a518-2c58-4eb8-9319-084f0eb4ddc4}#1913#CoreSingleLanguage#Win 8 RTM CoreSingleLanguage OEM:DM#OEM:DM
+{71f411ae-7b4b-41bd-b68c-c519c499f950}#1794#CoreSingleLanguage#Win 8 RTM CoreSingleLanguage OEM:DM#OEM:DM
+{23505d51-32d6-41f0-8ca7-e78ad0f16e71}#100054#Starter#Win Next Starter Retail#Retail
+{211b80cc-7f64-482c-89e9-4ba21ff827ad}#100055#StarterN#Win Next StarterN Retail#Retail
+{a5660459-eecb-402a-ae58-9256b9214f76}#2500#EmbeddedIndustryEval#Windows Embedded Industry Next Beta EmbeddedIndustryEval#Retail:TB:Eval	Retail:TB:Eval
+{b7610cd6-9f6e-4a6b-9846-1e9f30bc95c2}#2501#EmbeddedIndustry#Windows Embedded Industry Next Beta EmbeddedIndustry OEM:NONSLP#OEM:NONSLP
+{4451c642-6a57-4b2b-932b-5d94129897ef}#2502#EmbeddedIndustry#Windows Embedded Industry Next Beta EmbeddedIndustry OEM:DM#OEM:DM
+{c35a9336-fb02-48db-8f4d-245c17f03667}#2503#EmbeddedIndustry#Windows Embedded Industry Next Beta EmbeddedIndustry Volume:GVLK#Volume:GVLK
+{68bc2dd6-9a01-477b-ac7f-88b9709af75d}#2504#EmbeddedIndustry#Windows Embedded Industry Next Beta EmbeddedIndustry Volume:MAK#Volume:MAK
+{87c67764-b6e6-4b18-b603-d4fd67012083}#2505#EmbeddedIndustryEEval#Windows Embedded Industry Next Beta EmbeddedIndustryEEval Retail:TB:Eval#Retail:TB:Eval
+{3e548858-b936-48e1-aa61-8a25ba990dab}#2507#EmbeddedIndustryE#Windows Embedded Industry Next Beta EmbeddedIndustryE OEM:NONSLP#OEM:NONSLP
+{4daf1e3e-6be9-4848-8f5a-a18a0d2895e1}#2508#EmbeddedIndustryE#Windows Embedded Industry Next Beta EmbeddedIndustryE Volume:GVLK#Volume:GVLK
+{56a82112-00ad-4497-9eea-8ac182430dc5}#2509#EmbeddedIndustryE#Windows Embedded Industry Next Beta EmbeddedIndustryE Volume:MAK#Volume:MAK
+{329cf0e4-4ade-4391-9f71-e225f53c2ee1}#2511#EmbeddedIndustryA#Windows Embedded Industry Next Beta EmbeddedIndustryA OEM:NONSLP#OEM:NONSLP
+{6c4dba01-6fbf-48ae-9271-70b6a17c4a40}#2512#EmbeddedIndustryA#Windows Embedded Industry Next Beta EmbeddedIndustryA OEM:DM#OEM:DM
+{9cc2564c-292e-4d8a-b9f9-1f5007d9409a}#2513#EmbeddedIndustryA#Windows Embedded Industry Next Beta EmbeddedIndustryA Volume:GVLK#Volume:GVLK
+{268345e7-ad2a-4e18-ab96-6918863f3c1d}#2514#EmbeddedIndustryA#Windows Embedded Industry Next Beta EmbeddedIndustryA Volume:MAK#Volume:MAK
+{0aa31bde-a50d-4544-9434-a8154e1f4ebe}#1875#Embedded#Windows Embedded Standard 8 RC Embedded Retail#Retail
+{98f1827a-79be-4945-8957-304d283c95e5}#1873#Embedded#Windows Embedded Standard 8 RC Embedded Retail:TB:Eval#Retail:TB:Eval
+{e1ef459b-eb4c-4609-baee-9b8b3d9aa222}#1884#EmbeddedE#Windows Embedded Standard 8 RC EmbeddedE Retail:TB:Eval#Retail:TB:Eval
+{215f2ffd-4c88-416f-966c-0315549c5a26}#1885#EmbeddedE#Windows Embedded Standard 8 RC EmbeddedE Retail#Retail
+{0d17ff59-c618-4007-ab49-d48c941a8bcc}#1058#ServerWeb#WinServer Next ServerWeb OEM:DM#OEM:DM
+{cb20a646-4bcb-4615-820a-e832a5e79942}#1059#ServerWeb#WinServer Next ServerWeb OEM:SLP#OEM:SLP
+{89dda8f4-eefe-498d-9f25-201a763c0824}#1060#ServerWeb#WinServer Next ServerWeb OEM:NONSLP#OEM:NONSLP
+{793fbec3-7313-469e-bfd3-938123de3e85}#1061#ServerWeb#WinServer Next ServerWeb OEM:COA#OEM:COA
+{1be52dfa-347b-4ea9-a5a0-903fe990a797}#1345#ServerWeb#WinServer Next ServerWeb Retail#Retail
+{53cfae25-4180-4d86-bfcf-ff4d1adb9caa}#1346#ServerWeb#WinServer Next ServerWeb Retail:TB:Eval#Retail:TB:Eval
+{972ba9b4-65c4-47c2-9b12-febfdd2604b3}#1347#ServerWeb#WinServer Next ServerWeb Volume:MAK#Volume:MAK
+{e5676f13-9b66-4a1f-8b0c-43490e236202}#1348#ServerWeb#WinServer Next ServerWeb Volume:GVLK#Volume:GVLK
+
+{c7c00280-b24d-4e82-89ca-4f1288eb1d9e}#2586#Core#Win 8.1 RTM Core OEM:DM#OEM:DM
+{a143fcf7-82ba-4829-b005-063a5fb76e82}#2622#CoreN#Win 8.1 RTM CoreN OEM:DM#OEM:DM
+{cdcc4295-9acc-4fd9-a2b6-ade31f228d73}#2621#CoreCountrySpecific#Win 8.1 RTM CoreCountrySpecific OEM:DM#OEM:DM
+{e2ca509a-a2f4-498b-ba09-297685d369ac}#2623#CoreSingleLanguage#Win 8.1 RTM CoreSingleLanguage OEM:DM#OEM:DM
+{763fe1c2-d40f-4f3c-9a28-7a3af6f0d987}#2625#Professional#Win 8.1 RTM Professional OEM:DM#OEM:DM
+{51b43152-a885-432f-a1cb-a575ca416784}#2587#Professional#Win 8.1 RTM Professional OEM:DM#OEM:DM
+{24c2ee7a-4a61-448d-a8b0-a1a08edfd867}#2588#ProfessionalN#Win 8.1 RTM ProfessionalN OEM:DM#OEM:DM
+{b080aea2-e6c5-4b22-838e-fa4a21c931e3}#2589#Core#Win 8.1 RTM Core OEM:NONSLP#OEM:NONSLP
+{b656184e-5c4d-47e9-9797-0959c94a9404}#2592#CoreN#Win 8.1 RTM CoreN OEM:NONSLP#OEM:NONSLP
+{b8490a14-d942-43bb-a1b5-68f347757bce}#2591#CoreCountrySpecific#Win 8.1 RTM CoreCountrySpecific OEM:NONSLP#OEM:NONSLP
+{bea5bfff-b61d-45e5-bc61-4fca1d85b501}#2593#CoreSingleLanguage#Win 8.1 RTM CoreSingleLanguage OEM:NONSLP#OEM:NONSLP
+{d03e843c-9044-4cd4-b5eb-78a9586b5598}#2594#Professional#Win 8.1 RTM Professional OEM:NONSLP#OEM:NONSLP
+{8b547029-1c12-405d-9df7-8faa53949a3f}#2595#ProfessionalN#Win 8.1 RTM ProfessionalN OEM:NONSLP#OEM:NONSLP
+{9a8645c4-8908-49bb-8eec-6671a533b17a}#2596#Core#Win 8.1 RTM Core Retail#Retail
+{c4b15b02-3fe9-4ac0-878e-a4b10ffe84bf}#2599#CoreN#Win 8.1 RTM CoreN Retail#Retail
+{8da2dfae-e4f5-4e6a-9272-96f8470e033e}#2600#Professional#Win 8.1 RTM Professional Retail#Retail
+{92bd040f-0108-45dd-94e3-e0d6423df214}#2601#ProfessionalN#Win 8.1 RTM ProfessionalN Retail#Retail
+{4fea9ede-e6ee-41a6-a231-1604ec75c480}#2602#ProfessionalN#Win 8.1 RTM ProfessionalN Retail#Retail
+{9e263fcf-ef40-428c-8aa1-40e09e2994db}#2597#Core#Win 8.1 RTM Core OEM:DM#OEM:DM
+{12788d53-9337-42dc-88c9-413b553ba71c}#2624#CoreSingleLanguage#Win 8.1 RTM CoreSingleLanguage OEM:DM#OEM:DM
+{0ef706a5-beb3-4d84-8ce4-3eb867681947}#2667#CoreConnected#Win 8.1 RTM CoreConnected OEM:DM#OEM:DM
+{af6e4b59-36d6-4655-9cf9-2d4da32462a0}#2668#CoreConnected#Win 8.1 RTM CoreConnected OEM:DM#OEM:DM
+{54d2e94d-b1a8-40e9-aad4-90d714fd0397}#2669#CoreConnected#Win 8.1 RTM CoreConnected OEM:NONSLP#OEM:NONSLP
+{f75f855d-c551-4372-8e10-d7601014b8d1}#2670#CoreConnected#Win 8.1 RTM CoreConnected Retail#Retail
+{ed3159f0-d461-4bb6-b497-e39dc60bc6b7}#2672#CoreConnectedN#Win 8.1 RTM CoreConnectedN OEM:DM#OEM:DM
+{a220e795-38d4-4f67-ad33-adf7c551da69}#2673#CoreConnectedN#Win 8.1 RTM CoreConnectedN OEM:NONSLP#OEM:NONSLP
+{846471a2-2ca8-420e-a086-1f6b7f7600f6}#2674#CoreConnectedN#Win 8.1 RTM CoreConnectedN Retail#Retail
+{d3347d1a-f759-4c2c-b807-216a91405835}#2676#ProfessionalStudent#Win 8.1 RTM ProfessionalStudent OEM:DM#OEM:DM
+{e27459f7-7e70-4d3a-ae93-224a2515e419}#2677#ProfessionalStudent#Win 8.1 RTM ProfessionalStudent OEM:DM#OEM:DM
+{f862e93a-1f3d-4e21-8723-bbee862487e9}#2678#ProfessionalStudent#Win 8.1 RTM ProfessionalStudent OEM:NONSLP#OEM:NONSLP
+{e25b7ed5-7a46-466b-acc1-6a410ee55478}#2679#ProfessionalStudent#Win 8.1 RTM ProfessionalStudent Retail#Retail
+{809a6525-264d-4cc9-8fb2-88df2aab0f80}#2681#ProfessionalStudentN#Win 8.1 RTM ProfessionalStudentN OEM:DM#OEM:DM
+{effed9b4-3f0a-40be-af85-6eec66d29bd6}#2682#ProfessionalStudentN#Win 8.1 RTM ProfessionalStudentN OEM:NONSLP#OEM:NONSLP
+{640a26b0-6f32-4e2f-b47a-d6c51c8e7e5d}#2683#ProfessionalStudentN#Win 8.1 RTM ProfessionalStudentN Retail#Retail
+{50e701fc-1c15-4e26-a244-87d5248c3d3d}#2685#CoreConnectedSingleLanguage#Win 8.1 RTM CoreConnectedSingleLanguage OEM:DM#OEM:DM
+{1cb1d5c8-555f-4faf-935d-1477b904b6e4}#2686#CoreConnectedSingleLanguage#Win 8.1 RTM CoreConnectedSingleLanguage OEM:DM#OEM:DM
+{355c6932-54b6-423f-b76f-6b8ed6d6a5e3}#2687#CoreConnectedSingleLanguage#Win 8.1 RTM CoreConnectedSingleLanguage OEM:NONSLP#OEM:NONSLP
+{e905f108-1c8f-4058-ae1b-8e18372aaa64}#2689#CoreConnectedCountrySpecific#Win 8.1 RTM CoreConnectedCountrySpecific OEM:DM#OEM:DM
+{c8ad0cb2-b2cb-4c03-acf2-0231fdce675f}#2690#CoreConnectedCountrySpecific#Win 8.1 RTM CoreConnectedCountrySpecific OEM:NONSLP#OEM:NONSLP
+{354d964a-56e7-43c5-a93f-287a7a750bd4}#2618#"Professional;ProfessionalN"#"Win 8.1 RTM Professional;ProfessionalN Volume:MAK"#Volume:MAK
+{8d904b5c-2cd4-43f4-846a-f0f5d60387a0}#2603#ProfessionalWMC#Win 8.1 RTM ProfessionalWMC Retail#Retail
+{77560caa-e16a-41b4-b952-739a68ba67cb}#1777#CoreN#Win 8 RTM CoreN Retail#Retail
+{625cc89b-693d-45c4-9967-123877fc41e4}#1778#Core#Win 8 RTM Core Retail#Retail
+{03ccfdc5-a723-45f7-ad80-5a67db815f4a}#1780#ProfessionalN#Win 8 RTM ProfessionalN Retail#Retail
+{be1b42f3-058d-4063-9446-87061153184b}#1807#ProfessionalN#Win 8 RTM ProfessionalN Retail#Retail
+{9e473b6d-b591-4c46-9c44-90a865f22e76}#1781#Professional#Win 8 RTM Professional Retail#Retail
+{7f71c90a-6279-4274-b398-37f7e9019dd4}#1808#Professional#Win 8 RTM Professional Retail#Retail
+{b13d53d4-1a21-4d49-9eb1-20c7eafc77d4}#1790#CoreN#Win 8 RTM CoreN OEM:DM#OEM:DM
+{a8a9d177-863c-4cdb-9064-3e3ae90016d7}#1791#CoreN#Win 8 RTM CoreN OEM:NONSLP#OEM:NONSLP
+{ed36b7fc-be9b-4889-b89d-0243f716df2b}#1792#CoreCountrySpecific#Win 8 RTM CoreCountrySpecific OEM:DM#OEM:DM
+{f855e560-9c47-49ae-a88d-a99d1a748b88}#1793#CoreCountrySpecific#Win 8 RTM CoreCountrySpecific OEM:NONSLP#OEM:NONSLP
+{71f411ae-7b4b-41bd-b68c-c519c499f950}#1794#CoreSingleLanguage#Win 8 RTM CoreSingleLanguage OEM:DM#OEM:DM
+{a25f4cc7-4bd1-4124-a4b8-4e6508dbbab8}#1795#CoreSingleLanguage#Win 8 RTM CoreSingleLanguage OEM:NONSLP#OEM:NONSLP
+{9e4b231b-3e45-41f4-967f-c914f178b6ac}#1796#Core#Win 8 RTM Core OEM:DM#OEM:DM
+{c752c2e0-7c17-4af4-bba6-6f8aa1e698bc}#1797#Core#Win 8 RTM Core OEM:NONSLP#OEM:NONSLP
+{73416275-0240-425f-90d9-d92590083699}#1798#ProfessionalN#Win 8 RTM ProfessionalN OEM:DM#OEM:DM
+{b3e1210d-4dfe-4709-a907-de5b41b9dccd}#1799#ProfessionalN#Win 8 RTM ProfessionalN OEM:NONSLP#OEM:NONSLP
+{0cdc4d08-6df6-4eb4-b5b4-a373c3e351e7}#1801#Professional#Win 8 RTM Professional OEM:DM#OEM:DM
+{05e80e9f-93e3-4433-8b6d-bac4ae66d7bc}#1802#Professional#Win 8 RTM Professional OEM:NONSLP#OEM:NONSLP
+{bf4b3af6-c071-496d-bfcc-5f0dc12c7798}#1914#Core#Win 8 RTM Core OEM:DM#OEM:DM
+{bbc56067-37f8-49dd-87b2-a418a9ba130a}#1915#Professional#Win 8 RTM Professional OEM:DM#OEM:DM
+{dc76fecf-f339-42b7-b9b7-3b0958c3c020}#1911#CoreCountrySpecific#Win 8 RTM CoreCountrySpecific Retail#Retail
+{1bb82acd-c4ad-4566-813c-55840d559460}#1912#CoreSingleLanguage#Win 8 RTM CoreSingleLanguage Retail#Retail
+{b0f8a518-2c58-4eb8-9319-084f0eb4ddc4}#1913#CoreSingleLanguage#Win 8 RTM CoreSingleLanguage OEM:DM#OEM:DM
+{949d6b86-bfa7-4ff1-b4df-17e67bb6320d}#1785#"Professional;ProfessionalN"#"Win 8 RTM Professional;ProfessionalN Volume:MAK"#Volume:MAK
+{7b65fea6-df35-4e65-aaa7-bdf1fef5b24f}#1809#ProfessionalWMC#Win 8 RTM ProfessionalWMC Retail#Retail
+
+{7d7240c9-5ea0-4a33-8061-a5f44d061f2e}#1838#ServerStandard#Windows Server 2012 RTM ServerStandard Retail#Retail
+{38d172c7-36b3-4e4b-b435-fd0b06b95c6e}#1839#ServerStandardEval#Windows Server 2012 RTM ServerStandardEval Retail:TB:Eval#Retail:TB:Eval
+{e8d4f6d1-e7dc-4846-8211-00c73378761c}#1840#ServerStandard#Windows Server 2012 RTM ServerStandard OEM:SLP#OEM:SLP
+{b56ceac0-8372-431d-9790-e8f5c3bc36d9}#1841#ServerStandard#Windows Server 2012 RTM ServerStandard OEM:NONSLP#OEM:NONSLP
+{80f31e41-6acb-44f8-84b6-f977eee1180b}#1842#ServerStandard#Windows Server 2012 RTM ServerStandard Volume:MAK#Volume:MAK
+{f0f5ec41-0d55-4732-af02-440a44a3cf0f}#1843#ServerStandard#Windows Server 2012 RTM ServerStandard Volume:GVLK#Volume:GVLK
+{cd25b1e8-5839-4a96-a769-b6abe3aa5dee}#1844#ServerDatacenterEval#Windows Server 2012 RTM ServerDatacenterEval Retail:TB:Eval#Retail:TB:Eval
+{d8c684ee-f1e0-4818-9549-94611b97e30a}#1845#ServerDatacenter#Windows Server 2012 RTM ServerDatacenter OEM:SLP#OEM:SLP
+{6b2835a6-812f-4442-92bb-8a12e39e7b3f}#1846#ServerDatacenter#Windows Server 2012 RTM ServerDatacenter OEM:NONSLP#OEM:NONSLP
+{dfcc0524-eb83-4602-a604-cd51ef986848}#1847#ServerDatacenter#Windows Server 2012 RTM ServerDatacenter Retail#Retail
+{92819457-c0d7-472b-916f-b9258709dea2}#1848#ServerDatacenter#Windows Server 2012 RTM ServerDatacenter Volume:MAK#Volume:MAK
+{d3643d60-0c42-412d-a7d6-52e6635327f6}#1849#ServerDatacenter#Windows Server 2012 RTM ServerDatacenter Volume:GVLK#Volume:GVLK
+{13b49371-ed44-422a-b6ba-9b4371b1d454}#1850#ServerWinFoundation#Windows Server 2012 RTM ServerWinFoundation OEM:SLP#OEM:SLP
+{e24a6dbc-cf17-42c1-8cd4-0a867174c2e3}#1851#ServerWinFoundation#Windows Server 2012 RTM ServerWinFoundation OEM:NONSLP#OEM:NONSLP
+{72543b18-7883-4883-82cb-7a18b80faa92}#1852#ServerWinFoundation#Windows Server 2012 RTM ServerWinFoundation Retail#Retail
+{3502d53e-5d43-436a-84af-714e8d334f8d}#1853#APPXLOB-Server#Windows Server 2012 RTM APPXLOB For Server Editions Volume:MAK#Volume:MAK
+{42e62a84-ff0d-4660-9871-ec7ebf6c5cc5}#1861#ServerSolution#Windows Server Essentials 2012 RTM ServerSolution OEM:NONSLP#OEM:NONSLP
+{0c66cd8b-b268-4891-ac36-b0693655abe5}#1862#ServerSolution#Windows Server Essentials 2012 RTM ServerSolution Retail#Retail
+{fd490af2-ccdf-4779-90f4-ad1da5ace1b6}#1863#ServerSolution#Windows Server Essentials 2012 RTM ServerSolution Volume:MAK#Volume:MAK
+{6ef03962-b897-44b9-b936-c8a630ebe6ae}#1864#ServerSolution#Windows Server Essentials 2012 RTM ServerSolution Retail:TB:Eval#Retail:TB:Eval
+{51fac5ca-ed00-490e-8927-431f3a95bfb2}#1812#ServerMultiPointStandard#MultiPoint Server 2012 RTM ServerMultiPointStandard OEM:SLP#OEM:SLP
+{f8c153f5-e319-4296-a308-922b83cb319a}#1813#ServerMultiPointStandard#MultiPoint Server 2012 RTM ServerMultiPointStandard OEM:NONSLP#OEM:NONSLP
+{7d5486c7-e120-4771-b7f1-7b56c6d3170c}#1814#ServerMultiPointStandard#MultiPoint Server 2012 RTM ServerMultiPointStandard Volume:GVLK#Volume:GVLK
+{a9508e93-b5f5-4f8b-9a06-fe25403a4d7d}#1815#ServerMultiPointStandard#MultiPoint Server 2012 RTM ServerMultiPointStandard Retail#Retail
+{8e4dab90-a213-4080-9e9f-6e6960f35374}#1816#ServerMultiPointStandard#MultiPoint Server 2012 RTM ServerMultiPointStandard Retail:TB:Eval#Retail:TB:Eval
+{2dc28392-07cb-4f61-90ae-23017b8abf51}#1817#ServerMultiPointStandard#MultiPoint Server 2012 RTM ServerMultiPointStandard Volume:MAK#Volume:MAK
+{669c7339-15bc-48a4-8cf0-1206bf55d1a6}#1818#ServerMultiPointPremium#MultiPoint Server 2012 RTM ServerMultiPointPremium OEM:SLP#OEM:SLP
+{34ddcc85-496f-4db1-a71f-62a9c368b902}#1819#ServerMultiPointPremium#MultiPoint Server 2012 RTM ServerMultiPointPremium OEM:NONSLP#OEM:NONSLP
+{95fd1c83-7df5-494a-be8b-1300e1c9d1cd}#1820#ServerMultiPointPremium#MultiPoint Server 2012 RTM ServerMultiPointPremium Volume:GVLK#Volume:GVLK
+{536d2cc3-38f5-4b21-8172-f5ef9dba24b4}#1821#ServerMultiPointPremium#MultiPoint Server 2012 RTM ServerMultiPointPremium Retail#Retail
+{3593786c-8910-4a34-821c-ba4d4da29c8a}#1822#ServerMultiPointPremium#MultiPoint Server 2012 RTM ServerMultiPointPremium Retail:TB:Eval#Retail:TB:Eval
+{c17a905d-1e69-47a0-9f3c-96b3afdeee60}#1823#ServerMultiPointPremium#MultiPoint Server 2012 RTM ServerMultiPointPremium Volume:MAK#Volume:MAK
+{d365a015-4ae2-47a3-b622-c435ec68a226}#1828#ServerStorageStandard#Storage Server 2012 RTM ServerStorageStandard OEM:SLP#OEM:SLP
+{e02a8dec-555e-4fba-a83d-b9d58357b8a5}#1829#ServerStorageStandard#Storage Server 2012 RTM ServerStorageStandard OEM:NONSLP#OEM:NONSLP
+{dc436761-ec03-4520-bcc8-8faf6c6b6437}#1830#ServerStorageStandard#Storage Server 2012 RTM ServerStorageStandard Retail#Retail
+{dddb6ad0-7889-479f-9234-fb0791a3a465}#1831#ServerStorageStandard#Storage Server 2012 RTM ServerStorageStandard Volume:MAK#Volume:MAK
+{0de5ff31-2d62-4912-b1a8-3ea01d2461fd}#1832#ServerStorageStandardEval#Storage Server 2012 RTM ServerStorageStandardEval Retail:TB:Eval#Retail:TB:Eval
+{74c86e3a-132f-4a61-a262-1d9422c2b790}#1833#ServerStorageWorkgroup#Storage Server 2012 RTM ServerStorageWorkgroup OEM:SLP#OEM:SLP	
+{9e82b0f6-0123-4abb-b0ca-48c66ad298eb}#1834#ServerStorageWorkgroup#Storage Server 2012 RTM ServerStorageWorkgroup OEM:NONSLP#OEM:NONSLP
+{4e01a8cb-6f36-42e1-8cdf-ebf46e452d18}#1835#ServerStorageWorkgroup#Storage Server 2012 RTM ServerStorageWorkgroup Retail#Retail
+{07cad638-30ec-40f7-ad44-63dbe6808a78}#1836#ServerStorageWorkgroup#Storage Server 2012 RTM ServerStorageWorkgroup Volume:MAK#Volume:MAK
+{fb08f53a-e597-40dc-9f08-8bbf99f19b92}#1837#ServerStorageWorkgroupEval	Storage Server 2012 RTM ServerStorageWorkgroupEval Retail:TB:Eval#Retail:TB:Eval
+{311689ec-557a-48b1-b913-15f800a4b3b8}#1918#EmbeddedIndustryE#Windows Embedded Industry 8 TAP-CTP#Retail
+{8117933e-0789-49b9-a410-bb27c930825e}#1916#EmbeddedIndustryE#Windows Embedded Industry 8 TAP-CTP#Retail
+{c8cca3ca-bea8-4f6f-87e0-4d050ce8f0a9}#1919#EmbeddedIndustryE#Windows Embedded Industry 8 TAP-CTP#Volume:GVLK
+{20932bd1-9599-4553-babe-3b49e6378129}#1917#EmbeddedIndustryE#Windows Embedded Industry 8 TAP-CTP#Retail:TB:Eval
+{5b394fbc-3997-459d-8a69-135c482b6d9e}#1920#EmbeddedIndustryE#Windows Embedded Industry 8 TAP-CTP#Volume:MAK
+{9777ea17-3df9-420d-b18b-777a110d9f67}#1878#EmbeddedA#Windows Embedded Standard 8 RC EmbeddedA Retail#Retail
+{0aa31bde-a50d-4544-9434-a8154e1f4ebe}#1875#Embedded#Windows Embedded Standard 8 RC Embedded Retail#Retail
+{98f1827a-79be-4945-8957-304d283c95e5}#1873#Embedded#Windows Embedded Standard 8 RC Embedded Retail:TB:Eval#Retail:TB:Eval
+{30cddb12-3c15-426d-bf75-01ac6b76c517}#1869#Embedded#Windows Embedded Standard 8 RC Embedded Retail#Retail
+{f3aae112-2462-4839-a918-2a82873120b4}#1883#EmbeddedA#Windows Embedded Standard 8 RC EmbeddedA Retail:TB:Eval#Retail:TB:Eval
+{6e260d42-5f13-433b-b0db-e7f9a4ab068a}#1872#Embedded#Windows Embedded Standard 8 RC Embedded Retail#Retail
+{e1ef459b-eb4c-4609-baee-9b8b3d9aa222}#1884#EmbeddedE#Windows Embedded Standard 8 RC EmbeddedE Retail:TB:Eval#Retail:TB:Eval
+{c28eefd5-8556-41a4-80fb-3cef2171fc6a}#1877#EmbeddedA#Windows Embedded Standard 8 RC EmbeddedA Retail#Retail
+{215f2ffd-4c88-416f-966c-0315549c5a26}#1885#EmbeddedE#Windows Embedded Standard 8 RC EmbeddedE Retail#Retail
+{f50df763-fdd2-4700-844a-66aa8f615f73}#1886#EmbeddedE#Windows Embedded Standard 8 RC EmbeddedE Retail#Retail
+{4a8257c9-fb61-4ce5-835b-40af00e6d792}#1874#Embedded#Windows Embedded Standard 8 RC Embedded Retail:TB:Eval#Retail:TB:Eval
+{3c43283f-b9e9-4d90-a80c-195dbde9ebef}#1880#EmbeddedA#Windows Embedded Standard 8 RC EmbeddedA Retail#Retail
+{abb44e28-2bce-47a5-b5b7-991ca671d94c}#1887#EmbeddedE#Windows Embedded Standard 8 RC EmbeddedE Retail#Retail
+{73f32753-ba85-4b99-9beb-3b134cfffad7}#1866#Embedded#Windows Embedded Standard 8 RC Embedded Retail:TB:Eval#Retail:TB:Eval
+{9db2e1c2-91f3-4828-88f7-d30e32c6f06f}#1868#Embedded#Windows Embedded Standard 8 RC Embedded Retail#Retail
+{a61685cb-8274-4b28-9e5a-125457a7c3de}#1882#EmbeddedA#Windows Embedded Standard 8 RC EmbeddedA Retail:TB:Eval#Retail:TB:Eval
+{af1f0684-e2ee-48eb-ade8-45243019cb0e}#1888#EmbeddedE#Windows Embedded Standard 8 RC EmbeddedE Retail#Retail
+{a50f1053-beff-49b7-b72e-d337cc349ead}#1876#EmbeddedA#Windows Embedded Standard 8 RC EmbeddedA Retail:TB:Eval#Retail:TB:Eval
+{2b8b57d4-71fa-4861-8c86-b4c10826b30c}#1870#Embedded#Windows Embedded Standard 8 RC Embedded Retail#Retail
+{98f9aebb-ff11-4d1c-a3af-bcd7f09bb778}#1879#EmbeddedA#Windows Embedded Standard 8 RC EmbeddedA Retail#Retail
+{0edd9f4f-77ff-43e5-8297-19c7cafc3d01}#1871#Embedded#Windows Embedded Standard 8 RC Embedded Retail#Retail
+{78545906-7b81-4fd3-b7a2-eeaf22ba1969}#1881#EmbeddedA#Windows Embedded Standard 8 RC EmbeddedA Retail#Retail
+{af6b4d3a-0581-4f85-83d5-ed87c0600f7e}#1867#Embedded#Windows Embedded Standard 8 RC Embedded Retail#Retail
+
+{f1a8fe3c-5d21-4050-9cb9-695449b058e4}#2626#EmbeddedIndustryEval#Windows Embedded Industry 8.1 RTM EmbeddedIndustryEval Retail:TB:Eval#Retail:TB:Eval
+{d9eea459-1e6b-499d-8486-e68163f2a8be}#2627#EmbeddedIndustryEval#Windows Embedded Industry 8.1 RTM EmbeddedIndustryEval Retail:TB:Eval#Retail:TB:Eval
+{0553d524-1466-4fdc-8bab-a6482da45008}#2628#EmbeddedIndustryEval#Windows Embedded Industry 8.1 RTM EmbeddedIndustryEval Retail:TB:Eval#Retail:TB:Eval
+{e7c5a5e6-f494-4a14-8e19-2c4086518afa}#2629#EmbeddedIndustry#Windows Embedded Industry 8.1 RTM EmbeddedIndustry Retail#Retail
+{c30808ff-8237-4ef2-b4c3-74720694d90d}#2630#EmbeddedIndustry#Windows Embedded Industry 8.1 RTM EmbeddedIndustry OEM:NONSLP#OEM:NONSLP
+{7d185910-7676-4b20-9d7d-2c7ffa3880cc}#2631#EmbeddedIndustry#Windows Embedded Industry 8.1 RTM EmbeddedIndustry OEM:NONSLP#OEM:NONSLP
+{b76ff67a-190e-487d-8b41-daaaebed17f1}#2632#EmbeddedIndustry#Windows Embedded Industry 8.1 RTM EmbeddedIndustry OEM:NONSLP#OEM:NONSLP
+{28fb4ea8-9b40-4358-93d5-e0dd952a69a4}#2633#EmbeddedIndustry#Windows Embedded Industry 8.1 RTM EmbeddedIndustry OEM:NONSLP#OEM:NONSLP
+{7a1091b7-d6a0-48ac-80d7-edf9288386ed}#2634#EmbeddedIndustry#Windows Embedded Industry 8.1 RTM EmbeddedIndustry OEM:DM#OEM:DM
+{67a4011a-90f1-42f4-8b79-709e0ef5c7c0}#2635#EmbeddedIndustry#Windows Embedded Industry 8.1 RTM EmbeddedIndustry OEM:DM#OEM:DM
+{2cc1bcf9-c562-4008-93ee-bdc6d7e879e8}#2636#EmbeddedIndustry#Windows Embedded Industry 8.1 RTM EmbeddedIndustry OEM:DM#OEM:DM
+{8607e7a6-552c-4b4d-8de0-a07ce766c9b1}#2637#EmbeddedIndustry#Windows Embedded Industry 8.1 RTM EmbeddedIndustry OEM:DM#OEM:DM
+{da7c8412-76da-4f77-813b-ee6c57683812}#2638#EmbeddedIndustry#Windows Embedded Industry 8.1 RTM EmbeddedIndustry OEM:DM#OEM:DM
+{1ec32ff8-292f-4e5a-b0b4-d50a45fa4543}#2639#EmbeddedIndustry#Windows Embedded Industry 8.1 RTM EmbeddedIndustry Volume:MAK#Volume:MAK
+{0ab82d54-47f4-4acb-818c-cc5bf0ecb649}#2640#EmbeddedIndustry#Windows Embedded Industry 8.1 RTM EmbeddedIndustry Volume:GVLK#Volume:GVLK
+{1d44bb28-1e92-4307-ba6e-8704175429dd}#2642#EmbeddedIndustryEEval#Windows Embedded Industry 8.1 RTM EmbeddedIndustryEEval Retail:TB:Eval#Retail:TB:Eval
+{c4b908d2-c4b9-439d-8ff0-48b656a24da4}#2643#EmbeddedIndustryEEval#Windows Embedded Industry 8.1 RTM EmbeddedIndustryEEval Retail:TB:Eval#Retail:TB:Eval
+{547b4ccc-3d68-4864-81ea-a0df667b1e01}#2644#EmbeddedIndustryEEval#Windows Embedded Industry 8.1 RTM EmbeddedIndustryEEval Retail:TB:Eval#Retail:TB:Eval
+{eb9c6ae3-e55d-4c4e-bd7d-997974cda6d2}#2645#EmbeddedIndustryE#Windows Embedded Industry 8.1 RTM EmbeddedIndustryE Retail#Retail
+{c8eaea63-78c9-4018-a8be-176e0e21efc3}#2646#EmbeddedIndustryE#Windows Embedded Industry 8.1 RTM EmbeddedIndustryE Volume:MAK#Volume:MAK
+{cd4e2d9f-5059-4a50-a92d-05d5bb1267c7}#2647#EmbeddedIndustryE#Windows Embedded Industry 8.1 RTM EmbeddedIndustryE Volume:GVLK#Volume:GVLK
+{a617c12c-d07e-486a-95cc-6116f9cef6f4}#2648#EmbeddedIndustryA#Windows Embedded Industry 8.1 RTM EmbeddedIndustryA OEM:NONSLP#OEM:NONSLP
+{0dfc43bc-f8b6-4332-8803-1ab525f00f26}#2649#EmbeddedIndustryA#Windows Embedded Industry 8.1 RTM EmbeddedIndustryA OEM:DM#OEM:DM
+{72b48e55-6168-4e87-a83e-5d38a5770ae3}#2650#EmbeddedIndustryA#Windows Embedded Industry 8.1 RTM EmbeddedIndustryA OEM:DM#OEM:DM
+{0dfb75d0-bc18-4889-9cfa-d73417d51cbe}#2651#EmbeddedIndustryA#Windows Embedded Industry 8.1 RTM EmbeddedIndustryA OEM:DM#OEM:DM
+{822ddf91-4e9a-449d-9cea-360573738d2e}#2652#EmbeddedIndustryA#Windows Embedded Industry 8.1 RTM EmbeddedIndustryA OEM:DM#OEM:DM
+{0c4788b6-7e05-464b-abab-b026e585e1cc}#2653#EmbeddedIndustryA#Windows Embedded Industry 8.1 RTM EmbeddedIndustryA Volume:MAK#Volume:MAK
+{f7e88590-dfc7-4c78-bccb-6f3865b99d1a}#2654#EmbeddedIndustryA#Windows Embedded Industry 8.1 RTM EmbeddedIndustryA Volume:GVLK#Volume:GVLK
+{439e8c91-ff38-4ecb-ba0b-32658680c952}#2520#ServerStandard#Windows Server 12 R2 RTM ServerStandard Retail#Retail
+{4fc45a88-26b5-4cf9-9eef-769ee3f0a016}#2521#ServerStandardEval#Windows Server 12 R2 RTM ServerStandardEval Retail:TB:Eval#Retail:TB:Eval
+{c7e5dd52-ef14-4bf6-bc71-1bf5f5794cd0}#2522#ServerStandard#Windows Server 12 R2 RTM ServerStandard OEM:SLP#OEM:SLP
+{5b338ef7-8d99-45cb-bb59-618bd328b4a4}#2524#ServerStandard#Windows Server 12 R2 RTM ServerStandard OEM:NONSLP#OEM:NONSLP
+{979d2e65-04b7-44c9-9d7b-ef4028168cba}#2526#ServerStandard#Windows Server 12 R2 RTM ServerStandard Volume:MAK#Volume:MAK
+{b3ca044e-a358-4d68-9883-aaa2941aca99}#2527#ServerStandard#Windows Server 12 R2 RTM ServerStandard Volume:GVLK#Volume:GVLK
+{c2d61e88-5598-4e77-aae2-286dc6670a89}#2528#ServerDatacenter#Windows Server 12 R2 RTM ServerDatacenter Retail#Retail
+{e628c5e8-2300-4429-8b80-a8b21bd7ce0a}#2529#ServerDatacenterEval#Windows Server 12 R2 RTM ServerDatacenterEval Retail:TB:Eval#Retail:TB:Eval
+{66d129b6-eae9-414e-a39a-ea5b8be961cc}#2530#ServerDatacenter#Windows Server 12 R2 RTM ServerDatacenter OEM:SLP#OEM:SLP
+{1226e046-263d-414c-824f-0d4f458cee3a}#2532#ServerDatacenter#Windows Server 12 R2 RTM ServerDatacenter OEM:NONSLP#OEM:NONSLP
+{641f81b2-63c2-47dd-aba7-c24bf651ff85}#2534#ServerDatacenter#Windows Server 12 R2 RTM ServerDatacenter Volume:MAK#Volume:MAK
+{00091344-1ea4-4f37-b789-01750ba6988c}#2535#ServerDatacenter#Windows Server 12 R2 RTM ServerDatacenter Volume:GVLK#Volume:GVLK
+{c77db0a9-53d5-4374-b5fb-474e00a691be}#2536#ServerWinFoundation#Windows Server 12 R2 RTM ServerWinFoundation OEM:SLP#OEM:SLP
+{00b997e2-864d-40b5-b80c-112aaed7bc5b}#2538#ServerWinFoundation#Windows Server 12 R2 RTM ServerWinFoundation OEM:NONSLP#OEM:NONSLP
+{bffb487e-c76f-49ff-b006-169d06ef9d67}#2540#ServerWinFoundation#Windows Server 12 R2 RTM ServerWinFoundation Retail#Retail
+{f002931d-5536-4908-8d93-40ae584e24d6}#2541#ServerStandard#Windows Server 12 R2 RTM ServerStandard VT:IA#VT:IA
+{640e7014-6f45-4106-bd1d-ac17a812a2d1}#2542#ServerDatacenter#Windows Server 12 R2 RTM ServerDatacenter VT:IA#VT:IA
+{1f69990a-882c-41d0-bc52-f294badd6a84}#2543#ServerCloudStorage#ServerCloudStorage 12 R2 RTM ServerCloudStorage Retail#Retail
+{581e30e6-c16d-4db7-9797-386576439267}#2544#ServerCloudStorage#ServerCloudStorage 12 R2 RTM ServerCloudStorage OEM:SLP#OEM:SLP
+{8a72972b-7b86-4d8d-a4e4-79da4e916297}#2545#ServerCloudStorage#ServerCloudStorage 12 R2 RTM ServerCloudStorage OEM:NONSLP#OEM:NONSLP
+{b743a2be-68d4-4dd3-af32-92425b7bb623}#2546#ServerCloudStorage#ServerCloudStorage 12 R2 RTM ServerCloudStorage Volume:GVLK#Volume:GVLK
+{2994120e-2119-47df-b779-076c79acc297}#2578#ServerSolution#Windows Server Essentials 2012 R2 RTM ServerSolution OEM:SLP#OEM:SLP
+{e96022a1-3247-4125-9ddc-4c6068ab3bfc}#2580#ServerSolution#Windows Server Essentials 2012 R2 RTM ServerSolution OEM:NONSLP#OEM:NONSLP
+{9986e719-0599-4daa-b72e-ac8e505031db}#2582#ServerSolution#Windows Server Essentials 2012 R2 RTM ServerSolution Retail#Retail
+{0c02eb79-fa61-43e0-9b8b-c6584c85caf8}#2583#ServerSolution#Windows Server Essentials 2012 R2 RTM ServerSolution Volume:MAK#Volume:MAK
+{21db6ba4-9a7b-4a14-9e29-64a60c59301d}#2584#ServerSolution#Windows Server Essentials 2012 R2 RTM ServerSolution Volume:GVLK#Volume:GVLK
+{2528222c-11e5-4238-ac71-e187f964c787}#2585#ServerSolution#Windows Server Essentials 2012 R2 RTM ServerSolution VT:IA#VT:IA
+{7e60069d-ea09-40fb-a50b-cd9cb82174c1}#2655#ServerSolution#Windows Server Essentials 2012 R2 RTM ServerSolution Retail:TB:Eval#Retail:TB:Eval
+{e7cb1f59-5bff-42e2-831e-f2b9a44c3961}#2570#ServerStorageStandard#Storage Server 2012 R2 RTM ServerStorageStandard OEM:SLP#OEM:SLP
+{3b1fa934-29ab-4ae2-bf6e-ccbaef7f3031}#2571#ServerStorageStandard#Storage Server 2012 R2 RTM ServerStorageStandard OEM:NONSLP#OEM:NONSLP
+{7ec7a624-e060-445c-b52b-2621e69e016b}#2572#ServerStorageStandard#Storage Server 2012 R2 RTM ServerStorageStandard Retail#Retail
+{b9f3109c-bfa9-4f37-9824-6dba9ee62056}#2573#ServerStorageStandardEval#Storage Server 2012 R2 RTM ServerStorageStandardEval Retail:TB:Eval#Retail:TB:Eval
+{2d3b7269-65f4-467d-9d51-dbe0e5a4e668}#2574#ServerStorageWorkgroupEval#Storage Server 2012 R2 RTM ServerStorageWorkgroupEval Retail:TB:Eval#Retail:TB:Eval
+{6f35b08e-e4ca-4c87-834e-6a59e64b9d0d}#2575#ServerStorageWorkgroup#Storage Server 2012 R2 RTM ServerStorageWorkgroup OEM:SLP#OEM:SLP
+{667cf149-d9e5-40bf-8047-53bd15bcdb0a}#2576#ServerStorageWorkgroup#Storage Server 2012 R2 RTM ServerStorageWorkgroup OEM:NONSLP#OEM:NONSLP
+{20ea7d3b-99c1-4d42-994f-a103fdac65d5}#2577#ServerStorageWorkgroup#Storage Server 2012 R2 RTM ServerStorageWorkgroup Retail#Retail
+
+{78ac7410-fd18-4dbd-9982-eb4161a6653a}#2240#CoreARM#Win 8 RTM CoreARM OEM:NONSLP#OEM:NONSLP
+{6b766db0-a520-4418-97b7-a0aea118bf48}#2217#CoreARM#Win 8 RTM CoreARM OEM:DM#OEM:DM
+{4c0a50bf-4308-45e8-95c9-05759dc0de15}#1910#CoreARM#Win 8 RTM CoreARM Retail#Retail
+{0b4dbe61-245f-4b43-9ce0-bbe1db8f29ff}#1865#CoreARM#Win 8 RTM CoreARM OEM:DM#OEM:DM
+{ffee456a-cd87-4390-8e07-16146c672fd0}#2609#CoreARM#Win 8.1 RTM CoreARM Volume:GVLK#Volume:GVLK
+{4bbc5a14-ec8c-4954-a8f3-1dad8c225d37}#2619#CoreARM#Win 8.1 RTM CoreARM OEM:DM#OEM:DM
+{78d9b031-b92d-4fc7-b6df-38b42dcc7110}#2590#CoreARM#Win 8.1 RTM CoreARM OEM:NONSLP#OEM:NONSLP
+{c4804ecf-6db4-4134-90a9-90d0874c9ad8}#2608#CoreARM#Win 8.1 RTM CoreARM OEM:DM#OEM:DM
+
+{25a0d760-2580-4c99-adfb-d57ba93560f5}#192#HomeBasic#Windows 7 Home Basic OEM:COA#OEM:COA
+{9821c9cb-288b-4c98-96f9-adc75a15eaf4}#190#HomeBasic#Windows 7 Home Basic OEM:COA#OEM:COA
+{774d5df6-d8dd-4d92-98bc-58825849d249}#178#HomeBasic#Windows 7 Home Basic OEM:NONSLP#OEM:NONSLP
+{b1184982-a958-4643-8e66-445fa0f92832}#170#HomeBasic#Windows 7 Home Basic Retail#Retail
+{6c7afc31-950c-4fa8-93ee-3e880aa97e5d}#172#HomeBasic#Windows 7 Home Basic Retail#Retail
+{d63316d0-1b6c-48e5-8db9-32b4d83fc7a0}#192#HomeBasicN#Windows 7 Home BasicN OEM:COA#OEM:COA
+{0fa327c5-2ba7-4090-ade8-0ec3eeda3242}#178#HomeBasicN#Windows 7 Home BasicN OEM:NONSLP#OEM:NONSLP
+{d1b53b3d-38eb-46a7-9afa-47271d93aec4}#170#HomeBasicN#Windows 7 Home BasicN Retail#Retail
+{ca400347-52d3-45a2-a333-f7d4c33b6af5}#172#HomeBasicN#Windows 7 Home BasicN Retail#Retail
+{5e017a8a-f3f9-4167-b1bd-ba3e236a4d8f}#196#HomePremium#Windows 7 Home Premium OEM:COA#OEM:COA
+{6a7d5d8a-92af-4e6a-af4b-8fddaec800e5}#194#HomePremium#Windows 7 Home Premium OEM:COA#OEM:COA
+{01f5fc37-a99e-45c5-b65e-d762f3518ead}#198#HomePremium#Windows 7 Home Premium OEM:COA#OEM:COA
+{9f83d90f-a151-4665-ae69-30b3f63ec659}#176#HomePremium#Windows 7 Home Premium OEM:NONSLP#OEM:NONSLP
+{586bc076-c93d-429a-afe5-a69fbc644e88}#174#HomePremium#Windows 7 Home Premium OEM:NONSLP#OEM:NONSLP
+{9ab82e0c-ffc9-4107-baa1-c65a8bd3ccc3}#172#HomePremium#Windows 7 Home Premium OEM:NONSLP#OEM:NONSLP
+{2e7d060d-4714-40f2-9896-1e4f15b612ad}#170#HomePremium#Windows 7 Home Premium Retail#Retail
+{3b965dfc-31d9-4903-886f-873a0382776c}#172#HomePremium#Windows 7 Home Premium Retail#Retail
+{01039663-ab8e-4d11-ba6c-cb4dacb2d13e}#194#HomePremiumN#Windows 7 Home PremiumN OEM:COA#OEM:COA
+{2143d01a-961c-4d9e-9150-6b5de0011274}#172#HomePremiumN#Windows 7 Home PremiumN OEM:NONSLP#OEM:NONSLP
+{8d2813f4-654e-4aad-9786-dba84bfe33d6}#170#HomePremiumN#Windows 7 Home PremiumN Retail#Retail
+{b68cc682-9531-4b6c-bb5e-202c92a59946}#172#HomePremiumN#Windows 7 Home PremiumN Retail#Retail
+{da22eadd-46dc-4056-a287-f5041c852470}#186#Professional#Windows 7 Professional OEM:COA#OEM:COA
+{c1027486-8ae8-4633-9cf9-9658ed80504d}#184#Professional#Windows 7 Professional OEM:COA#OEM:COA
+{d8e04254-f9a5-4729-ae86-886de6aa907c}#182#Professional#Windows 7 Professional OEM:NONSLP#OEM:NONSLP
+{e120e868-3df2-464a-95a0-b52fa5ada4bf}#180#Professional#Windows 7 Professional OEM:NONSLP#OEM:NONSLP
+{90a61a0d-0b76-4bf1-a8b8-89061855a4c9}#178#Professional#Windows 7 Professional OEM:NONSLP#OEM:NONSLP
+{e838d943-63ed-4a0b-9fb1-47152908acc9}#170#Professional#Windows 7 Professional Retail#Retail
+{770bc271-8dc1-467d-b574-73cbacbeccd1}#172#Professional#Windows 7 Professional Retail#Retail
+{61dbe86e-9979-45b4-8607-ae8b56aead36}#184#ProfessionalN#Windows 7 ProfessionalN OEM:COA#OEM:COA
+{fc3d428b-656b-4129-8274-700966289991}#178#ProfessionalN#Windows 7 ProfessionalN OEM:NONSLP#OEM:NONSLP
+{0bdb55f8-df23-41e9-bd76-a3b9cc40d7ca}#170#ProfessionalN#Windows 7 ProfessionalN Retail#Retail
+{c63f22b5-fdaf-4488-aeac-cc19411d0243}#172#ProfessionalN#Windows 7 ProfessionalN Retail#Retail
+{1d90c7cc-f3cc-4c2f-9650-7ac451fc73eb}#190#Starter#Windows 7 Starter OEM:COA#OEM:COA
+{d56863eb-6e59-4f2d-ae01-46322b5fba79}#184#Starter#Windows 7 Starter OEM:COA#OEM:COA
+{276d6155-27e2-437a-95f9-f1251168c970}#188#Starter#Windows 7 Starter OEM:COA#OEM:COA
+{9dee7406-49c2-43f2-b479-09bc4d5c4399}#194#Starter#Windows 7 Starter OEM:COA#OEM:COA
+{197247fa-8fb7-4a9d-9415-1ba0e14215e8}#172#Starter#Windows 7 Starter OEM:NONSLP#OEM:NONSLP
+{71c7c851-1863-4232-8ac2-cdd7f5e45dae}#170#Starter#Windows 7 Starter Retail#Retail
+{1c48e75a-71d5-4871-b6f2-bc407894445b}#188#StarterN#Windows 7 StarterN OEM:COA#OEM:COA
+{dd14134a-d56c-4bc0-a2e9-14c462b4295b}#172#StarterN#Windows 7 StarterN OEM:NONSLP#OEM:NONSLP
+{51ba3bd9-c1cd-42b5-ada3-22451bc151f4}#170#StarterN#Windows 7 StarterN Retail#Retail
+{022a1afb-b893-4190-92c3-8f69a49839fb}#188#Ultimate#Windows 7 Ultimate OEM:COA#OEM:COA
+{cfb3e52c-d707-4861-af51-11b27ee6169c}#182#Ultimate#Windows 7 Ultimate OEM:NONSLP#OEM:NONSLP
+{ac96e1a8-6cc4-4310-a4ff-332ce77fb5b8}#170#Ultimate#Windows 7 Ultimate Retail#Retail
+{a0cde89c-3304-4157-b61c-c8ad785d1fad}#172#Ultimate#Windows 7 Ultimate Retail#Retail
+{9b6938df-398f-407d-962f-d99b2e1d5d1b}#188#UltimateN#Windows 7 UltimateN OEM:COA#OEM:COA
+{419c2448-cd87-48cd-94d4-7b9af5efd169}#182#UltimateN#Windows 7 UltimateN OEM:NONSLP#OEM:NONSLP
+{fa3d0658-67f4-4a26-ba57-3fc6f39861f1}#170#UltimateN#Windows 7 UltimateN Retail#Retail
+{dca01e19-01f5-4ce1-98b1-35fb7a323806}#172#UltimateN#Windows 7 UltimateN Retail#Retail
+{07a012bd-c5b1-483a-a3ac-20da32d44dec}#170#StarterE#Windows 7 StarterE Retail#Retail
+{18aa7613-98ff-4820-9b69-1f69105ebba8}#172#UltimateE#Windows 7 UltimateE Retail#Retail
+{2e5cfead-eb89-4b28-87ba-a85917b1b95a}#188#UltimateE#Windows 7 UltimateE OEM:COA#OEM:COA
+{36c9cf6d-4b2b-4311-8552-e36d8c601781}#170#ProfessionalE#Windows 7 ProfessionalE Retail#Retail
+{42d70d37-136a-4eba-9d21-b394a73b7516}#172#StarterE#Windows 7 StarterE OEM:NONSLP#OEM:NONSLP
+{48fae3c8-9656-4147-bc80-5dd08c50d9bc}#182#UltimateE#Windows 7 UltimateE OEM:NONSLP#OEM:NONSLP
+{520130ee-efd4-4de0-99e0-565a86d7aeff}#170#UltimateE#Windows 7 UltimateE Retail#Retail
+{524e0c34-73ce-4198-9878-a53951c6f6b1}#198#HomePremiumE#Windows 7 HomePremiumE OEM:COA#OEM:COA
+{6841f362-8be0-4058-9c13-8f565ef1debb}#190#StarterE#Windows 7 StarterE OEM:COA#OEM:COA
+{7438e626-0d47-4b81-83db-eeff76921fd7}#188#StarterE#Windows 7 StarterE OEM:COA#OEM:COA
+{78c95341-4f01-4e52-808a-e2f90fc56f71}#172#ProfessionalE#Windows 7 ProfessionalE Retail#Retail
+{7f62a589-fc1c-4fc7-817b-90d565727ddb}#170#HomeBasicE#Windows 7 HomeBasicE Retail#Retail
+{82866d0f-354b-4dfc-bc75-8b925ba514db}#184#StarterE#Windows 7 StarterE OEM:COA#OEM:COA
+{88e1193d-e891-41c4-b517-3a305a013695}#172#HomeBasicE#Windows 7 HomeBasicE Retail#Retail
+{8d1786df-c824-49e4-8353-0525ee16c980}#170#HomePremiumE#Windows 7 HomePremiumE Retail#Retail
+{903e621f-f23c-4ba0-b8de-40c3affff57d}#172#HomePremiumE#Windows 7 HomePremiumE Retail#Retail
+{ab761468-3ae8-4696-b762-e77f674ac0c1}#180#ProfessionalE#Windows 7 ProfessionalE OEM:NONSLP#OEM:NONSLP
+{b2153262-12db-49d1-969a-9ca6b54cf93c}#184#ProfessionalE#Windows 7 ProfessionalE OEM:COA#OEM:COA
+{bbbb2a8a-aaee-4f56-a237-1e2cdc8039d6}#174#HomePremiumE#Windows 7 HomePremiumE OEM:NONSLP#OEM:NONSLP
+{cab94894-574c-4ace-8b83-c89d121fda53}#196#HomePremiumE#Windows 7 HomePremiumE OEM:COA#OEM:COA
+{d880a111-2ba6-4838-9553-3da0f31d8eb5}#194#HomePremiumE#Windows 7 HomePremiumE OEM:COA#OEM:COA
+{f1fe0f5e-7a50-4853-984d-9abd2dc05b6e}#178#HomeBasicE#Windows 7 HomeBasicE OEM:NONSLP#OEM:NONSLP
+{f7bc3d0d-ca9d-42ae-83e1-4fa46e0f4979}#176#HomePremiumE#Windows 7 HomePremiumE OEM:NONSLP#OEM:NONSLP
+{f91bf45e-af5f-495a-8cab-5578e1c44da1}#192#HomeBasicE#Windows 7 HomeBasicE OEM:COA#OEM:COA
+{0a6eaa31-2181-4266-b7b3-6b6a0dd0af8a}#182#ProfessionalE#Windows 7 ProfessionalE OEM:NONSLP#OEM:NONSLP
+{5f56dc78-0853-4465-81ec-88891d9624b0}#186#ProfessionalE#Windows 7 ProfessionalE OEM:COA#OEM:COA
+{0af59e82-53c5-4564-87cd-ddad65d5509f}#178#ProfessionalE#Windows 7 ProfessionalE OEM:NONSLP#OEM:NONSLP
+{9abf5984-9c16-46f2-ad1e-7fe15931a8dd}#172#"Professional;ProfessionalN;ProfessionalE"#Windows 7 All Volume Editions Volume:MAK#Volume:MAK
+{26cd687a-c069-49bd-adba-c622441a2d81}#172#HomePremiumE#Windows 7 Home PremiumE OEM:NONSLP#OEM:NONSLP
+{017935c3-4ed2-427a-aedf-55129321a285}#212#ProfessionalN#Windows 7 SP1 ProfessionalN OEM:NONSLP#OEM:NONSLP
+{05bce0e7-2ed5-4876-afb3-5844ffc90f40}#212#ProfessionalN#Windows 7 SP1 ProfessionalN OEM:COA#OEM:COA
+{0e88bdae-f9a7-4e9d-9afe-9398459c4385}#212#HomeBasic#Windows 7 SP1 HomeBasic Retail:WAUx#Retail
+{114e0c1a-1aa5-47a2-8d38-8eb3b51cdbb6}#212#StarterN#Windows 7 SP1 StarterN OEM:COA#OEM:COA
+{153ebbcf-07f0-4fbc-b361-3b4b50f48617}#212#HomePremiumN#Windows 7 SP1 HomePremiumN OEM:NONSLP#OEM:NONSLP
+{373a038e-d9b7-4fcb-9788-1bb41b96e8b0}#212#HomeBasicN#Windows 7 SP1 HomeBasicN OEM:NONSLP#OEM:NONSLP
+{3d30924b-bf77-489c-afbe-ecdba5988161}#212#UltimateN#Windows 7 SP1 UltimateN OEM:COA#OEM:COA
+{436cef53-8387-4692-bb4a-9492cd82260e}#212#Ultimate#Windows 7 SP1 Ultimate Retail:WAUx#Retail
+{4beb680a-2f31-471c-a7fe-7a979ccf3d63}#212#HomeBasicN#Windows 7 SP1 HomeBasicN Retail#Retail
+{57a232fe-0931-48fe-9389-e4586967c661}#212#Ultimate#Windows 7 SP1 Ultimate OEM:NONSLP#OEM:NONSLP
+{57c2bada-4fa1-410e-b9a7-92695078d46b}#212#HomeBasic#Windows 7 SP1 HomeBasic OEM:COA#OEM:COA
+{5a79ecd8-d33f-406c-a619-7785899b5d59}#212#Professional#Windows 7 SP1 Professional OEM:COA#OEM:COA
+{5e35dc43-389b-47c5-b889-2088b06738cb}#212#HomePremium#Windows 7 SP1 HomePremium OEM:COA#OEM:COA
+{628d8532-f53a-4861-a786-dd63ed6ac5b4}#212#UltimateN#Windows 7 SP1 UltimateN OEM:NONSLP#OEM:NONSLP
+{6e358ec7-1224-432e-aed8-955fb11a08bd}#212#StarterN#Windows 7 SP1 StarterN Retail#Retail
+{8b51f6c7-0b38-4487-83ff-bd3289c6292d}#212#Starter#Windows 7 SP1 Starter Retail#Retail
+{8c17fbea-5586-4807-aafe-0d8181c36ff5}#212#StarterN#Windows 7 SP1 StarterN OEM:NONSLP#OEM:NONSLP
+{8d84e167-c8ad-469f-a2b2-00b154668f70}#212#Starter#Windows 7 SP1 Starter OEM:COA#OEM:COA
+{92f06ba8-08e1-4156-b8b5-d38328f5b5d5}#212#ProfessionalN#Windows 7 SP1 ProfessionalN Retail#Retail
+{96b172b7-0521-413b-820b-4beb463bdac9}#212#HomePremiumN#Windows 7 SP1 HomePremiumN Retail#Retail
+{974740ce-f7de-4f95-8404-01b53efdcb66}#212#HomeBasic#Windows 7 SP1 HomeBasic OEM:NONSLP#OEM:NONSLP
+{9ccffaf9-86a2-414e-b031-b2f777720e90}#212#Professional#Windows 7 SP1 Professional Retail:WAUx#Retail
+{a63275f4-530c-48a7-b0d3-4f00d688d151}#212#HomePremium#Windows 7 SP1 HomePremium OEM:NONSLP#OEM:NONSLP
+{ac605e70-4f18-45ca-a99c-190e4b047cd1}#212#Starter#Windows 7 SP1 Starter OEM:NONSLP#OEM:NONSLP
+{ada98380-2f0c-4a45-893d-d6b124e7f31b}#212#UltimateN#Windows 7 SP1 UltimateN Retail#Retail
+{bba42084-cacd-4ad4-b606-9f3d6c93b2c5}#212#Ultimate#Windows 7 SP1 Ultimate OEM:COA#OEM:COA
+{bc95c3ad-bb46-4b09-b130-51665ef87e3b}#212#ProfessionalN#Windows 7 SP1 ProfessionalN Retail:WAUx#Retail
+{c1e88de3-96c4-4563-ad7d-775f65b1e670}#212#Professional#Windows 7 SP1 Professional Retail#Retail
+{c33001fc-5e9c-4f27-8c05-e0154adb0db4}#212#Professional#Windows 7 SP1 Professional OEM:NONSLP#OEM:NONSLP
+{c619d61c-c2f2-40c3-ab3f-c5924314b0f3}#212#Ultimate#Windows 7 SP1 Ultimate Retail#Retail
+{e5d2c2c7-9140-4fe9-9d3d-c0b106739e34}#212#HomeBasic#Windows 7 SP1 HomeBasic Retail#Retail
+{e68b141f-4dfa-4387-b3b7-e65c4889216e}#212#HomePremium#Windows 7 SP1 HomePremium Retail:WAUx#Retail
+{e72d9987-5c60-45b2-a093-87392e88107e}#212#HomePremiumN#Windows 7 SP1 HomePremiumN OEM:COA#OEM:COA
+{ecde36bb-22f8-481b-93ab-d3fc1204f470}#212#HomeBasicN#Windows 7 SP1 HomeBasicN OEM:COA#OEM:COA
+{ee4e1629-bcdc-4b42-a68f-b92e135f78d7}#212#HomePremium#Windows 7 SP1 HomePremium Retail#Retail
+{f294addd-20dd-46e6-bce7-01a15ef45e99}#212#UltimateN#Windows 7 SP1 UltimateN Retail:WAUx#Retail
+{fddde785-e27d-4c62-8ec0-ed78e58d424f}#212#HomePremiumN#Windows 7 SP1 HomePremiumN Retail:WAUx#Retail
+{613d217f-7f13-4268-9907-1662339531cd}#3306#Professional#Win 10 RTM Professional OEM:DM#OEM:DM
+{221a02da-e2a1-4b75-864c-0a4410a33fdf}#3307#Professional#Win 10 RTM Professional OEM:NONSLP#OEM:NONSLP
+{b6f26b97-8a82-4781-beef-1123952988f2}#3314#ProfessionalN#Win 10 RTM ProfessionalN OEM:DM#OEM:DM
+{1419d934-3a3f-46d4-8a5e-8594a56b9e6f}#3315#ProfessionalN#Win 10 RTM ProfessionalN OEM:NONSLP#OEM:NONSLP
+{c082c31b-2c4f-4e07-94d7-9181fa802c4b}#3555#Professional#Win 10 RTM Professional OEM:DM#OEM:DM
