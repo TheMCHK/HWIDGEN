@@ -7,6 +7,8 @@
 This tool is used to generate a valid and genuine Digital License obtained directly from Microsoft Retail Activation Servers, which can be used to activate Windows 10.
 The program also includes a method for server variants of Windows 10, and also LTSC/LTSB variants.
 
+#### Compile with AUTOHOTKEY ! All the files must be at the same directory as the original script, otherwise the compiler won't be able to find them!
+
 ### Supported Variants (HWIDGEN)
 
 • **Windows 10 Home**
