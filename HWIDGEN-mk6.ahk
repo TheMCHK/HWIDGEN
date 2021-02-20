@@ -205,7 +205,7 @@ FileAppend, Starting activation at %A_DD% %A_MMM% %A_YYYY% %A_Hour%:%A_Min%:%A_S
 FormatTime, TimeString,,HH:mm:ss
 output_Text(timestring . " Installing key:" . " " . NewKey . " " . "`r`n", hOut)
 FileAppend, Installing key %NewKey%...`n, HWID.log
-try RunWait,C:\Windows\System32\cmd.exe /c "cscript.exe /nologo %A_WinDir%\system32\slmgr.vbs -ipk %NewKey% >>HWID.log", , Hide
+try RunWait,%system32%\cmd.exe /c "cscript.exe /nologo %A_WinDir%\system32\slmgr.vbs -ipk %NewKey% >>HWID.log", , Hide
 catch {
 gosub, ProcessFail
 return
