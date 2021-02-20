@@ -21,7 +21,7 @@ MsgBox, 16, Error, This application is compatible with Windows 10 only
 ExitApp
 }
 if(A_Is64bitOS) {
-system32 = %A_WinDir%\sysnative
+system32 = %A_WinDir%\system32
 vera = x64
 } else {
 system32 = %A_WinDir%\system32
