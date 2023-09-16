@@ -29,7 +29,7 @@ Else
 	MsgBox "Please run this script in Windows 8.x"	
 End If 
 
-
+' dfgdfgerherhaerherh
 'Convert binary to chars
 Function ConvertToKey(Key)
     Const KeyOffset = 52
